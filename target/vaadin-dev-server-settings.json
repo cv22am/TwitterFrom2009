@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/ryanslingerland/Documents/Brock/Github/Twitter2009Drop/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/ryanslingerland/Documents/Brock/Github/Twitter2009Drop/./frontend/generated/jar-resources",
+  "staticOutput": "/Users/ryanslingerland/Documents/Brock/Github/Twitter2009Drop/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/ryanslingerland/Documents/Brock/Github/Twitter2009Drop/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/ryanslingerland/Documents/Brock/Github/Twitter2009Drop/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/ryanslingerland/Documents/Brock/Github/Twitter2009Drop/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/ryanslingerland/Documents/Brock/Github/Twitter2009Drop/target/dev-bundle/config",
+  "jarResourcesFolder": "/Users/ryanslingerland/Documents/Brock/Github/Twitter2009Drop/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/ryanslingerland/Documents/Brock/Github/Twitter2009Drop/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
